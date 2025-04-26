@@ -1,9 +1,12 @@
+# 👋 Hi there, I'm 𝑲𝒚𝒍𝒆 𝑩𝒂𝒊𝒕-𝒊𝒕(𝑲𝒚𝒍𝒆𝒑𝒐𝒈𝒊) 
+
+Welcome to my GitHub profile! I'm a passionate developer who enjoys working on exciting projects and learning new technologies.
 <div align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 70%" />
 </div>  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Make+It+Right" alt="Typing SVG" /></a>
-### <div align="center">Im Kyle Bait-it</div>  
+### <div align="center"> </div>  
   
 
 - 🔭 I’m currently working on [vercel](render.com) 
@@ -42,10 +45,26 @@
 
 <br/>  
 
-## GitHub Stats  
+## GitHub Stats
 
-### GitHub Stats Overview
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif098&theme=vue-dark&hide_border=true" alt="jarif098's GitHub Stats" align="center" /></div>
+![Kyle Bait-it GitHub stats](https://github-readme-stats.vercel.app/api?username=kylepogi&show_icons=true&theme=radical)
 
-<br/>
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+
+## GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kylepogi&theme=dracula)
+
+## GitHub Trophy 
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kylepogi&theme=onedark)
+
+## Languages and Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylepogi&layout=compact&theme=radical)
+
+Thanks for visiting my profile!
+
 
